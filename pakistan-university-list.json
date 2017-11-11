@@ -1,0 +1,2061 @@
+[ 
+{ 
+"id":1,
+"University":"Allama Iqbal Open University",
+"Location":"Islamabad",
+"Established":"1974",
+"Campuses":"Islamabad",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":2,
+"University":"Bahria University",
+"Location":"Islamabad",
+"Established":"2000",
+"Campuses":"Karachi-Lahore-Islamabad",
+"Specialization":"General ",
+"Type":"Pakistan Navy",
+"Province":"Islamabad"
+},
+{ 
+"id":3,
+"University":"Center for Advanced Studies in Engineering",
+"Location":"Islamabad",
+"Established":"2001",
+"Campuses":"Islamabad",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":4,
+"University":"Federal Urdu University",
+"Location":"Islamabad",
+"Established":"2002",
+"Campuses":"Islamabad",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":5,
+"University":"Foundation University- Islamabad",
+"Location":"Islamabad",
+"Established":"2002",
+"Campuses":" ",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":6,
+"University":"Institute of Space Technology",
+"Location":"Islamabad",
+"Established":"2002",
+"Campuses":"Islamabad",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":7,
+"University":"International Islamic University- Islamabad",
+"Location":"Islamabad",
+"Established":"1980",
+"Campuses":"Islamabad",
+"Specialization":"General (large)",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":8,
+"University":"Muslim Youth University",
+"Location":"Islamabad",
+"Established":"2015",
+"Campuses":"Islamabad",
+"Specialization":"Islamic",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":9,
+"University":"National Defence University- Pakistan",
+"Location":"Islamabad",
+"Established":"1970",
+"Campuses":"Islamabad",
+"Specialization":"General (military)",
+"Type":"Pakistan Army",
+"Province":"Islamabad"
+},
+{ 
+"id":10,
+"University":"National University of Modern Languages",
+"Location":"Islamabad",
+"Established":"2000",
+"Campuses":"Islamabad",
+"Specialization":"Language",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":11,
+"University":"National University of Sciences and Technology",
+"Location":"Islamabad",
+"Established":"1991",
+"Campuses":"Islamabad",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":12,
+"University":"Pakistan Institute of Development Economics",
+"Location":"Islamabad",
+"Established":"1957",
+"Campuses":"Islamabad",
+"Specialization":"Economics",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":13,
+"University":"Pakistan Institute of Engineering and Applied Sciences",
+"Location":"Islamabad",
+"Established":"1967",
+"Campuses":"Nilore",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":14,
+"University":"Quaid-i-Azam University",
+"Location":"Islamabad",
+"Established":"1965",
+"Campuses":"Islamabad",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":15,
+"University":"Riphah International University",
+"Location":"Islamabad",
+"Established":"2002",
+"Campuses":"Faisalabad-Lahore",
+"Specialization":"General (medium)",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":16,
+"University":"Shaheed Zulfikar Ali Bhutto Institute of Science and Technology",
+"Location":"Islamabad",
+"Established":"1995",
+"Campuses":"Karachi-Larkana-Hyderabad-Islamabad-Dubai-UAE-Sindh-Islamabad CT",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":17,
+"University":"Shaheed Zulfiqar Ali Bhutto Medical University",
+"Location":"Islamabad",
+"Established":"2013",
+"Campuses":"Islamabad",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":18,
+"University":"Shifa Tameer-e-Millat University",
+"Location":"Islamabad",
+"Established":"2012",
+"Campuses":" ",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":19,
+"University":"University of Faisalabad",
+"Location":"Islamabad",
+"Established":"2000",
+"Campuses":"Chiniot-Faisalabad-Karachi-Lahore-Peshawar",
+"Specialization":"Information technology",
+"Type":"Private",
+"Province":"Islamabad"
+},
+{ 
+"id":20,
+"University":"Virtual University of Pakistan",
+"Location":"Islamabad",
+"Established":"2002",
+"Campuses":"Islamabad",
+"Specialization":"Distance education",
+"Type":"Public",
+"Province":"Islamabad"
+},
+{ 
+"id":21,
+"University":"Balochistan University of Engineering and Technology",
+"Location":"Khuzdar",
+"Established":"1987",
+"Campuses":"",
+"Specialization":"General ",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":22,
+"University":"Balochistan University of Information Technology- Engineering and Management Sciences",
+"Location":"Quetta",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"Information technology",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":23,
+"University":"Lasbela University of Agriculture- Water and Marine Sciences",
+"Location":"Lasbela",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"General (medium)",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":24,
+"University":"Sardar Bahadur Khan Women's University",
+"Location":"Quetta",
+"Established":"2004",
+"Campuses":"",
+"Specialization":"General ",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":25,
+"University":"University of Balochistan",
+"Location":"Quetta",
+"Established":"1970",
+"Campuses":"Loralai",
+"Specialization":"General (medium)",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":26,
+"University":"University of Turbat",
+"Location":"Turbat",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General (medium)",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":27,
+"University":"University of Loralai",
+"Location":"Loralai",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General ",
+"Type":"Public",
+"Province":"Balochistan"
+},
+{ 
+"id":28,
+"University":"Al-Hamd Islamic University",
+"Location":"Quetta",
+"Established":"1995 ",
+"Campuses":"Islamabad",
+"Specialization":"General ",
+"Type":"Private",
+"Province":"Balochistan"
+},
+{ 
+"id":29,
+"University":"Islamia College University",
+"Location":"Peshawar",
+"Established":"1913 ",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":30,
+"University":"Pakistan Military Academy- Kakul",
+"Location":"Abbotabad",
+"Established":"1947",
+"Campuses":"",
+"Specialization":"Training",
+"Type":"Pakistan Army",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":31,
+"University":"University of Peshawar",
+"Location":"Peshawar",
+"Established":"1950",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":32,
+"University":"Gomal University",
+"Location":"Dera Ismail Khan",
+"Established":"1974",
+"Campuses":"Tank",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":33,
+"University":"University of Engineering and Technology- Peshawar",
+"Location":"Peshawar",
+"Established":"1980",
+"Campuses":"Abbottabad- Bannu- Jalozai- Kohat",
+"Specialization":"Engineering and Technology",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":34,
+"University":"University of Agriculture- Peshawar",
+"Location":"Peshawar",
+"Established":"1981",
+"Campuses":"Mardan",
+"Specialization":"Agriculture- veterinary and business",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":35,
+"University":"CECOS University of IT and Emerging Sciences",
+"Location":"Peshawar",
+"Established":"1986",
+"Campuses":"",
+"Specialization":"IT & engineering",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":36,
+"University":"GIK Institute of Engineering & Technology",
+"Location":"Swabi",
+"Established":"1988",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":37,
+"University":"Kohat University of Science and Technology",
+"Location":"Kohat",
+"Established":"2001",
+"Campuses":"Hangu",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":38,
+"University":"University of Malakand- Chakdara",
+"Location":"Lower Dir",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":39,
+"University":"Qurtuba University",
+"Location":"Peshawar",
+"Established":"2001",
+"Campuses":"Dera Ismail Khan",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":40,
+"University":"Sarhad University of Science and IT",
+"Location":"Peshawar",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"Science & IT",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":41,
+"University":"Fast University- Peshawar Campus",
+"Location":"Peshawar",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"Information technology",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":42,
+"University":"City University of Science and IT",
+"Location":"Peshawar",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"IT- engineering & general",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":43,
+"University":"COMSATS Institute of IT",
+"Location":"Abbotabad",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"IT",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":44,
+"University":"Hazara University",
+"Location":"Mansehra",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":45,
+"University":"Gandhara University",
+"Location":"Peshawar",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"Medical sciences",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":46,
+"University":"Northern University",
+"Location":"Nowshera",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":47,
+"University":"Institute of Management Sciences ",
+"Location":"Peshawar",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"Management Sciences",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":48,
+"University":"University of Science and Technology",
+"Location":"Bannu",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":49,
+"University":"Khyber Medical University",
+"Location":"Peshawar",
+"Established":"2007",
+"Campuses":"Abbottabad - Bannu- DI Khan- Saidu Sharif (Swat)",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":50,
+"University":"Abasyn University",
+"Location":"Peshawar",
+"Established":"2007",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":51,
+"University":"Abdul Wali Khan University Mardan",
+"Location":"Mardan",
+"Established":"2009",
+"Campuses":"Chitral- Pabbi- Shankar- Main Campus- Palosa Campus- Timergara Campus",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":52,
+"University":"Shaheed Benazir Bhutto University- Sheringal",
+"Location":"Upper Dir",
+"Established":"2009",
+"Campuses":"Chitral",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":53,
+"University":"University of Swat",
+"Location":"Swat",
+"Established":"2009",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":54,
+"University":"Bacha Khan University",
+"Location":"Charsadda",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":55,
+"University":"Shaheed Benazir Bhutto Women University",
+"Location":"Peshawar",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":56,
+"University":"University of Haripur",
+"Location":"Haripur",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":57,
+"University":"IQRA National University",
+"Location":"Peshawar",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":58,
+"University":"Khushal Khan Khattak University",
+"Location":"Karak",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":59,
+"University":"University of Swabi",
+"Location":"Swabi",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":60,
+"University":"University of FATA",
+"Location":"Kohat",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":61,
+"University":"Abbottabad University of Science and Technology",
+"Location":"Abbottabad",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"Science & Technology",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":62,
+"University":"Women University Mardan",
+"Location":"Mardan",
+"Established":"2016",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":63,
+"University":"Women University Swabi",
+"Location":"Swabi",
+"Established":"2016",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":64,
+"University":"University of Technology",
+"Location":"Nowshera",
+"Established":"2016",
+"Campuses":"",
+"Specialization":"Technology",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":65,
+"University":"University of Chitral",
+"Location":"Chitral",
+"Established":"2017",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":66,
+"University":"University of Buner",
+"Location":"Buner",
+"Established":"2017",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":67,
+"University":"University of Engineering and Technology Mardan[5][6]",
+"Location":"Mardan",
+"Established":"2017",
+"Campuses":"",
+"Specialization":"Engineering and Technology",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":68,
+"University":"University of Agriculture- Dera Ismail Khan",
+"Location":"Dera Ismail Khan",
+"Established":"2017",
+"Campuses":"",
+"Specialization":"Agriculture",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":69,
+"University":"University of Science & Technology Lakki Marwat",
+"Location":"Lakki Marwat",
+"Established":"2017",
+"Campuses":"",
+"Specialization":"Science & Technology",
+"Type":"Public",
+"Province":"Khyber Pakhtunkhwa"
+},
+{ 
+"id":70,
+"University":"Bahauddin Zakariya University",
+"Location":"Multan",
+"Established":"1975",
+"Campuses":"Layyah- Sahiwal- Lahore- Vehari- Islamabad- Dera Ghazi Khan",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":71,
+"University":"Fatima Jinnah Women University",
+"Location":"Rawalpindi",
+"Established":"1998",
+"Campuses":"Rawalpindi",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":72,
+"University":"University of Sargodha",
+"Location":"Sargodha",
+"Established":"2002",
+"Campuses":"Lahore- Faisalabad- Gujranwala- Bhakkar-Mianwali-Mandi Bahauddin",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":73,
+"University":"Ghazi University",
+"Location":"Dera Ghazi Khan",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":74,
+"University":"Government College University- Faisalabad",
+"Location":"Faisalabad",
+"Established":"1933 (2002)*",
+"Campuses":"Layyah",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":75,
+"University":"Government College University- Lahore",
+"Location":"Lahore",
+"Established":"1864 (2002)*",
+"Campuses":"Lahore",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":76,
+"University":"Government College Women University- Faisalabad",
+"Location":"Faisalabad",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":77,
+"University":"Government College Women University- Sialkot",
+"Location":"Sialkot",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":78,
+"University":"Government Sadiq College Women University",
+"Location":"Bahawalpur",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":79,
+"University":"Govt. Sadiq Egerton College Bahawalpur",
+"Location":"Bahawalpur",
+"Established":"1886",
+"Campuses":"Bahawalpur",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":80,
+"University":"Information Technology University (Lahore)",
+"Location":"Lahore",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Information technology",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":81,
+"University":"Islamia University",
+"Location":"Bahawalpur",
+"Established":"1975",
+"Campuses":"Bahawalnagar Rahim Yar Khan",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":82,
+"University":"Khawaja Fareed University of Engineering and Information Technology",
+"Location":"Rahim Yar Khan",
+"Established":"2014",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":83,
+"University":"King Edward Medical University",
+"Location":"Lahore",
+"Established":"1860 (2006)*",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":84,
+"University":"Kinnaird College for Women University",
+"Location":"Lahore",
+"Established":"1917",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":85,
+"University":"Lahore College for Women University",
+"Location":"Lahore",
+"Established":"1922",
+"Campuses":"Jhang",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":86,
+"University":"Muhammad Nawaz Sharif University of Agriculture",
+"Location":"Multan",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Agriculture",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":87,
+"University":"National College of Arts (NCA)",
+"Location":"Lahore",
+"Established":"1875 (1996)*",
+"Campuses":"",
+"Specialization":"Arts",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":88,
+"University":"National Textile University",
+"Location":"Faisalabad",
+"Established":"1959 (2002)*",
+"Campuses":"",
+"Specialization":"Textile engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":89,
+"University":"NFC Institute of Engineering and Technology",
+"Location":"Multan",
+"Established":"1985",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":90,
+"University":"Pakistan Institute of Fashion and Design",
+"Location":"Lahore",
+"Established":"2010",
+"Campuses":"",
+"Specialization":"Fashion",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":91,
+"University":"Pir Mehr Ali Shah Arid Agriculture University",
+"Location":"Rawalpindi",
+"Established":"1970 (1994)*",
+"Campuses":"Gujrat",
+"Specialization":"Agriculture and veterinary",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":92,
+"University":"University of Agriculture- Faisalabad",
+"Location":"Faisalabad",
+"Established":"1906 (1961)*",
+"Campuses":"Burewala- Toba Tek Singh",
+"Specialization":"Agriculture and veterinary",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":93,
+"University":"University of Education",
+"Location":"Lahore",
+"Established":"2002",
+"Campuses":"Dera Ghazi Khan-Faisalabad- Jauharabad- Multan- Okara- Pakistan- Vehari",
+"Specialization":"Education",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":94,
+"University":"University of Engineering and Technology- Lahore",
+"Location":"Lahore",
+"Established":"1921",
+"Campuses":"Faisalabad-Kala Shah Kaku- Rachna College of Engineering and Technology (Gujranwala)",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":95,
+"University":"University of Engineering and Technology- Taxila",
+"Location":"Taxila",
+"Established":"1975",
+"Campuses":"Chakwal",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":96,
+"University":"University of Gujrat",
+"Location":"Gujrat",
+"Established":"2004",
+"Campuses":"Lahore- Sialkot",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":97,
+"University":"University of Health Sciences- Lahore",
+"Location":"Lahore",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":98,
+"University":"University of the Punjab",
+"Location":"Lahore",
+"Established":"1882",
+"Campuses":"Gujranwala-Jhelum",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":99,
+"University":"University of Veterinary and Animal Sciences",
+"Location":"Lahore",
+"Established":"1882",
+"Campuses":"Jhang- Pattoki",
+"Specialization":"Veterinary",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":100,
+"University":"Women University Multan",
+"Location":"Multan",
+"Established":"2010",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":101,
+"University":"University College of Agriculture- Sargodha",
+"Location":"Sargodha",
+"Established":"2009",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":102,
+"University":"Muhammad Nawaz Sharif University of Engineering and Technology",
+"Location":"Multan",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":103,
+"University":"University of Engineering and Technology",
+"Location":"Rasul- Mandi Bahauddin",
+"Established":"2014",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":104,
+"University":"University of Jhang",
+"Location":"Jhang",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":105,
+"University":"University of Okara",
+"Location":"Okara",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":106,
+"University":"University of Sahiwal",
+"Location":"Sahiwal",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":107,
+"University":"University of Veterinary and Animal Sciences (Bahawalpur)",
+"Location":"Bahawalpur",
+"Established":"2014",
+"Campuses":"",
+"Specialization":"Veterinary",
+"Type":"Public",
+"Province":"Punjab"
+},
+{ 
+"id":108,
+"University":"Ali Institute of Education",
+"Location":"Lahore",
+"Established":"1992",
+"Campuses":"",
+"Specialization":"Education",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":109,
+"University":"Beaconhouse National University",
+"Location":"Lahore",
+"Established":"2003",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":110,
+"University":"Forman Christian College",
+"Location":"Lahore",
+"Established":"1864 (2005)*",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":111,
+"University":"Greenfields college",
+"Location":"sargodha",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Education",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":112,
+"University":"GIFT University",
+"Location":"Gujranwala",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":113,
+"University":"Global Institute- Lahore",
+"Location":"Lahore",
+"Established":"1996",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":114,
+"University":"Hajvery University",
+"Location":"Lahore",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":115,
+"University":"HITEC University",
+"Location":"Taxila",
+"Established":"2007",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":116,
+"University":"Imperial College of Business Studies",
+"Location":"Lahore",
+"Established":"1991",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":117,
+"University":"Institute of Management Sciences- Lahore",
+"Location":"Lahore",
+"Established":"1987",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":118,
+"University":"Institute of Southern Punjab",
+"Location":"Multan",
+"Established":"2010",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":119,
+"University":"Lahore Garrison University",
+"Location":"Lahore",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":120,
+"University":"Lahore Leads University",
+"Location":"Lahore",
+"Established":"2011",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":121,
+"University":"Lahore School of Economics",
+"Location":"Lahore",
+"Established":"1997",
+"Campuses":"",
+"Specialization":"Business and economics",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":122,
+"University":"Lahore University of Management Sciences(LUMS)",
+"Location":"Lahore",
+"Established":"1984",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":123,
+"University":"Minhaj University- Lahore",
+"Location":"Lahore",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":124,
+"University":"National College of Business Administration and Economics",
+"Location":"Lahore",
+"Established":"1994",
+"Campuses":"Multan",
+"Specialization":"Business and economics",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":125,
+"University":"",
+"Location":"",
+"Established":"",
+"Campuses":"Gujrat Sargodha",
+"Specialization":"",
+"Type":"",
+"Province":""
+},
+{ 
+"id":126,
+"University":"NUR International University",
+"Location":"Lahore",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":127,
+"University":"Qarshi University",
+"Location":"Lahore",
+"Established":"2011",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":128,
+"University":"The Superior College",
+"Location":"Lahore",
+"Established":"2004",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":129,
+"University":"University of Central Punjab",
+"Location":"Lahore",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":130,
+"University":"University of Faisalabad",
+"Location":"Faisalabad",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":131,
+"University":"University of Lahore",
+"Location":"Lahore",
+"Established":"2002",
+"Campuses":"Gujrat-Islamabad- Sargodha",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":132,
+"University":"University of Management and Technology- Lahore",
+"Location":"Lahore",
+"Established":"1990",
+"Campuses":"Sialkot",
+"Specialization":"Business and technology",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":133,
+"University":"University of South Asia",
+"Location":"Lahore",
+"Established":"2003",
+"Campuses":"Chakwal",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":134,
+"University":"University of Wah",
+"Location":"Wah",
+"Established":"2009",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":135,
+"University":"Sargodha Institute of Technology",
+"Location":"Sargodha",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":136,
+"University":"University of Chakwal",
+"Location":"Chakwal",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Punjab"
+},
+{ 
+"id":137,
+"University":"Benazir Bhutto Shaheed University",
+"Location":"Karachi",
+"Established":"2010 (2007)*",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":138,
+"University":"Dawood University of Engineering and Technology",
+"Location":"Karachi",
+"Established":"1962 (2007)*",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":139,
+"University":"Dow University of Health Sciences",
+"Location":"Karachi",
+"Established":"1945 (2003)*",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":140,
+"University":"Gambat Institute of Medical Sciences",
+"Location":"Khairpur",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":141,
+"University":"Sindh Madressatul Islam University",
+"Location":"Karachi",
+"Established":"1885 (2012)*",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":142,
+"University":"Institute of Business Administration- Karachi",
+"Location":"Karachi",
+"Established":"1955",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":143,
+"University":"Sindh Medical University",
+"Location":"Karachi",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":144,
+"University":"Liaquat University of Medical and Health Sciences",
+"Location":"Jamshoro",
+"Established":"1881 (2002)*",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":145,
+"University":"Mehran University of Engineering and Technology",
+"Location":"Jamshoro",
+"Established":"1963 (1977)*",
+"Campuses":"Khairpur",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":146,
+"University":"NED University of Engineering and Technology",
+"Location":"Karachi",
+"Established":"1921 (1977)*",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":147,
+"University":"Peoples University of Medical & Health Sciences for Women",
+"Location":"Nawabshah",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":148,
+"University":"Quaid-e-Awam University of Engineering- Science and Technology",
+"Location":"Nawabshah",
+"Established":"1974 (1996)*",
+"Campuses":"Larkana",
+"Specialization":"Engineering",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":149,
+"University":"Shah Abdul Latif University",
+"Location":"Khairpur",
+"Established":"1974 (1987)*",
+"Campuses":"Shikarpur",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":150,
+"University":"Shaheed Benazir Bhutto University- Nawabshah",
+"Location":"Benazirabad",
+"Established":"2010",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":151,
+"University":"Shaheed Mohtarma Benazir Bhutto Medical University",
+"Location":"Larkana",
+"Established":"2008",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":152,
+"University":"Sindh Agriculture University",
+"Location":"Tandojam",
+"Established":"1977",
+"Campuses":"",
+"Specialization":"Agriculture and technology",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":153,
+"University":"Sindh Madrasatul Islam",
+"Location":"Karachi",
+"Established":"1885 (2012)*",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":154,
+"University":"Sukkur IBA University",
+"Location":"Sukkur",
+"Established":"1994",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":155,
+"University":"Shaheed Zulfiqar Ali Bhutto University of Law",
+"Location":"Karachi",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Law",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":156,
+"University":"University of Karachi",
+"Location":"Karachi",
+"Established":"1951",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":157,
+"University":"University of Sindh",
+"Location":"Jamshoro",
+"Established":"1947",
+"Campuses":"Badin- Dadu- Pakistan- Mirpur Khas",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":158,
+"University":"Shaheed Benazir Bhutto University of Veterinary and Animal Sciences",
+"Location":"Karachi",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Veterinary",
+"Type":"Public",
+"Province":"Sindh"
+},
+{ 
+"id":159,
+"University":"Greenwich University- Karachi",
+"Location":"Karachi",
+"Established":"1998",
+"Campuses":"Pakistan Mauritius",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":160,
+"University":"Commecs Institute of Business and Emerging Sciences",
+"Location":"Karachi",
+"Established":"1993",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":161,
+"University":"National University of Computer and Emerging Sciences",
+"Location":"Karachi",
+"Established":"1985",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":162,
+"University":"DHA Suffa University",
+"Location":"Karachi",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":163,
+"University":"Baqai Medical University",
+"Location":"Karachi",
+"Established":"1989 (1996)*",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":164,
+"University":"Hamdard University",
+"Location":"Karachi",
+"Established":"1991",
+"Campuses":"Islamabad (subject to the renewal of NOC in December- 2015)",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":165,
+"University":"Habib University",
+"Location":"Karachi",
+"Established":"2009 (2014)*",
+"Campuses":"",
+"Specialization":"Liberal arts and sciences",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":166,
+"University":"Indus University",
+"Location":"Karachi",
+"Established":"2004",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":167,
+"University":"Indus Valley School of Art and Architecture",
+"Location":"Karachi",
+"Established":"1989 (1994)*",
+"Campuses":"",
+"Specialization":"Arts and architecture",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":168,
+"University":"Institute of Business Management",
+"Location":"Karachi",
+"Established":"1995",
+"Campuses":"",
+"Specialization":"Business- engineering and technology",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":169,
+"University":"Institute of Business & Technology",
+"Location":"Karachi",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":170,
+"University":"Iqra University",
+"Location":"Karachi",
+"Established":"1998 (2000)*",
+"Campuses":"Islamabad- Quetta",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":171,
+"University":"Isra University",
+"Location":"Hyderabad",
+"Established":"1997",
+"Campuses":"Islamabad- Karachi",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":172,
+"University":"Jinnah University for Women",
+"Location":"Karachi",
+"Established":"1998",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":173,
+"University":"Karachi Institute of Economics and Technology",
+"Location":"Karachi",
+"Established":"1997",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":174,
+"University":"Karachi School for Business and Leadership",
+"Location":"Karachi",
+"Established":"2009 (2012)*",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":175,
+"University":"KASB Institute of Technology",
+"Location":"Karachi",
+"Established":"2011",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":176,
+"University":"Muhammad Ali Jinnah University",
+"Location":"Karachi",
+"Established":"2009",
+"Campuses":"Islamabad",
+"Specialization":"Business- engineering and technology",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":177,
+"University":"Nazeer Hussain University",
+"Location":"Karachi",
+"Established":"2012",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":178,
+"University":"Newports Institute of Communications and Economics",
+"Location":"Karachi",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Business",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":179,
+"University":"Preston Institute of Management Science and Technology",
+"Location":"Karachi",
+"Established":"2001",
+"Campuses":"",
+"Specialization":"Business and technology",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":180,
+"University":"Preston University",
+"Location":"Karachi",
+"Established":"1984",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":181,
+"University":"Shaheed Benazir Bhutto City University",
+"Location":"Karachi",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":182,
+"University":"Shaheed Benazir Bhutto Dewan University",
+"Location":"Karachi",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":183,
+"University":"Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology (SZABIST)",
+"Location":"Karachi",
+"Established":"1995",
+"Campuses":"Dubai-Hyderabad-Islamabad-Larkana",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":184,
+"University":"Sindh Institute of Medical Sciences",
+"Location":"Karachi",
+"Established":"2009",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":185,
+"University":"Sir Syed University of Engineering and Technology",
+"Location":"Karachi",
+"Established":"1993",
+"Campuses":"",
+"Specialization":"Engineering",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":186,
+"University":"Textile Institute of Pakistan",
+"Location":"Karachi",
+"Established":"1994 (2001)*",
+"Campuses":"",
+"Specialization":"Textile",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":187,
+"University":"Dadabhoy Institute of Higher Education",
+"Location":"Karachi",
+"Established":"2000",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":188,
+"University":"Hyderabad Institute of Arts- Science and Technology",
+"Location":"Hyderabad",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Sciences",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":189,
+"University":"Qalandar Shahbaz University of Modern Sciences",
+"Location":"Karachi",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Sciences",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":190,
+"University":"University of EAST",
+"Location":"Hyderabad",
+"Established":"2004",
+"Campuses":"",
+"Specialization":"Sciences",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":191,
+"University":"Aga Khan University Hospital- Karachi",
+"Location":"Karachi",
+"Established":"2005",
+"Campuses":"",
+"Specialization":"Medical",
+"Type":"Private",
+"Province":"Sindh"
+},
+{ 
+"id":192,
+"University":"Pakistan Naval Academy",
+"Location":"Karachi",
+"Established":"1970",
+"Campuses":"",
+"Specialization":"Military",
+"Type":"Pakistan Navy",
+"Province":"Sindh"
+},
+{ 
+"id":193,
+"University":"Mirpur University of Science and Technology- Mirpur",
+"Location":"Mirpur",
+"Established":"1980 (2008)*",
+"Campuses":"",
+"Specialization":"Engineering & Technology",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":194,
+"University":"University of Azad Jammu and Kashmir",
+"Location":"Muzaffarabad",
+"Established":"1980",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":195,
+"University":"University of Azad Jammu and Kashmir (Neelam Campus)",
+"Location":"Neelam",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":196,
+"University":"University of Azad Jammu and Kashmir (Jhelum Valley Campus)",
+"Location":"Jhelum Valley District",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":197,
+"University":"University of Poonch",
+"Location":"Rawalakot",
+"Established":"1980 (2012)*",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":198,
+"University":"University of Poonch ( SM Campus- Mong- Sudhnoti District)",
+"Location":"Sudhnoti District",
+"Established":"2014",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":199,
+"University":"University of Poonch ( Kahuta Campus- Haveli District)",
+"Location":"Haveli District",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":200,
+"University":"Women University of Azad Jammu and Kashmir Bagh",
+"Location":"Bagh",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":201,
+"University":"University of Management Sciences and Information Technology",
+"Location":"Kotli",
+"Established":"2014",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":202,
+"University":"Mirpur University of Science and Technology ( Bhimber Campus)",
+"Location":"Bhimber",
+"Established":"2013",
+"Campuses":"",
+"Specialization":"Science & Humanities",
+"Type":"Public",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":203,
+"University":"Al-Khair University",
+"Location":"Mirpur",
+"Established":"1994 (2011*)",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":204,
+"University":"Mohi-ud-Din Islamic University",
+"Location":"Nerian Sharif",
+"Established":"2000",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Private",
+"Province":"Azad Kashmir"
+},
+{ 
+"id":205,
+"University":"Karakoram International University",
+"Location":"Gilgit",
+"Established":"2002",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Gilgit-Baltistan"
+},
+{ 
+"id":206,
+"University":"Baltistan University",
+"Location":"Skardu",
+"Established":"2015",
+"Campuses":"",
+"Specialization":"General",
+"Type":"Public",
+"Province":"Gilgit-Baltistan"
+}]
